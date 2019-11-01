@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/michael/.config/google-chrome/Default/Extensions/gighmmpiobklfepjocnamgkkbiglidom/3.58.0_0'
+let g:netrw_dirhist_2='/home/michael/.config/google-chrome/Default/Extensions/gighmmpiobklfepjocnamgkkbiglidom/3.58.0_0/ext'
+let g:netrw_dirhist_3='/home/michael/.config/google-chrome/Default/Extensions/gighmmpiobklfepjocnamgkkbiglidom/3.58.0_0'
+let g:netrw_dirhist_4='/home/michael/.config/google-chrome/Default/Extensions/gighmmpiobklfepjocnamgkkbiglidom/3.58.0_0/localLib'
+let g:netrw_dirhist_5='/home/michael/.config/google-chrome/Default/Extensions/gighmmpiobklfepjocnamgkkbiglidom/3.58.0_0'

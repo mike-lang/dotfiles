@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/michael/Desktop/Old Firefox Data/g4v57b3t.default'
+let g:netrw_dirhist_2='/home/michael/.vim'
+let g:netrw_dirhist_3='/home/michael'
+let g:netrw_dirhist_4='/home/michael/.pki'
+let g:netrw_dirhist_5='/home/michael'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/'
